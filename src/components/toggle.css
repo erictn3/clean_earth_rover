@@ -1,0 +1,30 @@
+.container {
+    background-color: gray;
+    border-radius: 15px 50px;
+    width: 400px;
+    height: 50px;
+    margin: 10px;
+}
+
+.clickToggle{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+
+    
+}
+
+h3.toggle{
+
+    display: inline-block;
+
+
+}
+
+h2.title{
+    display: inline-block;
+
+
+
+
+}
